@@ -1,5 +1,6 @@
 # Conncted-Car-Controller
 차량 내 편의 기능을 무선으로 제어할 수 있는 임베디드 시스템과 차량 편의 기능 조작 어플리케이션
+<br><br>
 
 
 ## 기능 구성도
@@ -7,24 +8,43 @@
 
 ## 시연 영상
 [![시연영상_최종본_커버](https://github.com/user-attachments/assets/7b01780c-6ee0-4be4-92dd-e2fe8999e99d)](https://youtu.be/Mb-joNRislY)
-
+<br><br>
 
 ## 하드웨어 구성
 ### 시스템 아키텍처
 ![시스템아키텍쳐](https://github.com/user-attachments/assets/179bceb4-3356-4d23-ba89-1d335de0ba12)
-
+<br><br>
 
 ## 소프트웨어 구성
 ### 기능 흐름도
 ![기능흐름도](https://github.com/user-attachments/assets/eea84c9f-b560-480b-b41d-ce3ff3ac5579)
 
 ### SW 단위 설계
-#### iOS 앱 모듈 구조
+<details>
+<summary>iOS 앱 모듈 구조</summary>
+<div>
+
 ![iOS모듈구조](https://github.com/user-attachments/assets/892b297e-f148-46b0-865e-373091186e11)
-#### ESP32 모듈 구조
+
+</div>
+</details>
+<details>
+<summary>ESP32 모듈 구조</summary>
+<div>
+
 ![EPS모듈구조](https://github.com/user-attachments/assets/9c588a73-865b-4874-8534-e89a0ee43569)
-#### STM32 모듈 구조
+
+</div>
+</details>
+<details>
+<summary>STM32 모듈 구조</summary>
+<div>
+
 ![STM32모듈](https://github.com/user-attachments/assets/ea27663d-ac9d-4251-9ac8-33e244897b0f)
+
+</div>
+</details>
+
 
 ### SW 인터페이스 설계
 <details>
@@ -304,6 +324,7 @@
 
 </div>
 </details>
+<br><br>
 
 ## 개발 환경
 - **SW 개발 환경**
